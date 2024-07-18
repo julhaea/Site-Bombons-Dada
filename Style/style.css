@@ -325,3 +325,27 @@ footer{
 
     
 }
+/*nos*/
+.nos article{
+    padding-left:2em;
+    font-size: 1.3em;
+    align-self: center;
+    font-family: "Arvo",serif;
+}
+.nos h2{
+    font-family: "Arvo", serif;
+    font-size: 2.5rem;
+    padding-left: 3%;
+}
+#divnos{
+    padding-left: 2em;
+    padding-right:2em;
+    display: flex;
+    flex-direction:row;
+}
+#fotocasal{
+    width:320px;
+    height: 320px;
+    border-radius: 2em;
+}
+

@@ -186,4 +186,18 @@
 
         
     }
+    #divnos{
+        padding-left: 2em;
+        padding-right:2em;
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+    }
+    #fotocasal{
+        margin: auto;
+    }
+    .nos article {
+        padding-top: 2em;
+        padding-left:0em;
+    }
 }

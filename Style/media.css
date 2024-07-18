@@ -10,7 +10,7 @@
         margin-right:0rem;
     }
     nav h1{
-        font-size:1.3em;
+        font-size:1.2em;
     }
     nav a{
         font-size:0.8em;
@@ -160,4 +160,19 @@
 
         
     }
+    #divnos{
+        padding-left: 2em;
+        padding-right:2em;
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+    }
+    #fotocasal{
+        margin: auto;
+    }
+    .nos article {
+        padding-top: 2em;
+        padding-left:0em;
+    }
+
 }
